@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 icmp = "0.3.0"
+etherparse = "0.10.1"
+packet = "0.1"
